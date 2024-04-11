@@ -1,3 +1,4 @@
+---
 title: "Homework 6 Insta Data"
 author: "Alina Valliani, Estrella Hurtado"
 date: "`r Sys.Date()`"
